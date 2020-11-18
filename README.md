@@ -1,2 +1,7 @@
 ## Welcome to My GitHub Page
-This is my new file
+About Me
+CV
+Projects
+Teaching 
+Outreach
+Blog
